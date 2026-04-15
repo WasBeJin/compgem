@@ -1,0 +1,23 @@
+# Виртуальное окружение
+compgemproject/
+venv/
+ENV/
+
+# FFmpeg (большие бинарные файлы)
+ffmpeg.exe
+ffmpeg-n8.1-latest-win64-gpl-8.1/
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Системные
+.DS_Store
+Thumbs.db
