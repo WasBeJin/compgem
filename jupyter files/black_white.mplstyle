@@ -1,0 +1,16 @@
+    # Настройка стиля для черно-белых картинок
+    figure.figsize: 10, 4.0
+    figure.dpi: 200
+    # Настройка шрифтов
+    font.family: serif
+    font.serif: DejaVu Serif, Times New Roman
+    font.sans-serif: DejaVu Sans, Arial
+    font.monospace: DejaVu Sans Mono, Consolas, Courier New
+    font.size: 11
+    lines.markersize: 3
+    # Настройки сетки координат
+    axes.grid: True
+    grid.linewidth: 0.5
+    grid.linestyle: dashed
+    grid.color: gray
+    axes.prop_cycle: ((cycler('color', ['k']) * cycler('linestyle', ['solid', 'dashed', 'dashdot', 'dotted'])) * cycler('marker', [' ', '.', '^']))
