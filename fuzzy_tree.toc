@@ -1,0 +1,18 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Универсальное множество лингвистической переменной}{2}{section.1}%
+\contentsline {section}{\numberline {2}Нечёткие множества для базовых термов}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}НМ $A_1$ --- <<миниатюрное>>}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}НМ $A_2$ --- <<низкое>>}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}НМ $A_3$ --- <<среднее>>}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}НМ $A_4$ --- <<высокое>>}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Параметры НМ <<среднее>>}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Носитель}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Точки перехода}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Ядро}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Сводная таблица параметров}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Производные нечёткие множества}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}<<Не миниатюрное>> --- $\overline {A_1}$}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}<<Миниатюрное или не низкое>> --- $A_1 \cup \overline {A_2}$}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}<<Очень высокое>> --- $\mathrm {CON}(A_4) = A_4^2$}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}<<Низкое или среднее>> --- $A_2 \cup A_3$}{9}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Итоговая сводка}{10}{section.5}%
